@@ -1,0 +1,52 @@
+/* STYLES */
+
+main{
+    margin: auto;
+        max-width: 950px;
+}
+body {
+    background: rgb(152, 191, 125);
+        color: rgb(30, 35, 39);
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.1em; }
+
+h1{
+    color: rgb(31, 58, 84); 
+        text-shadow: 2px 2px #878787; 
+    border-style: outset;
+        border-width: 8px;
+    border-color: darkolivegreen; 
+        padding: 10px; }
+
+
+h2{
+    color:rgb(31, 58, 84); 
+        text-shadow: 2px 2px #878787;
+    text-shadow: 2px 2px #878787; 
+        transform: rotate(-1.5deg); 
+    margin: 50px 0 50px 0; }
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+        border-right:double; 
+    margin: 15px 0 30px 0;
+        text-indent: 15px; 
+    border-color: rgb(31, 58, 84) }
+    
+h3{
+    color: rgb(31, 58, 84); 
+        text-shadow: 2px 2px #878787;
+    padding: 75px 0 0 0; }
+
+ul{
+    color: rgb(31, 58, 84);
+        text-shadow: 2px 2px #878787;  
+    border-style: outset;
+        border-width: 8px;
+    border-color: darkolivegreen;  
+        padding: 1.2em; }
+
+h4{
+    color: rgb(31, 58, 84); 
+        text-shadow: 2px 2px #878787;
+    padding: 50px 0 0 0; }
